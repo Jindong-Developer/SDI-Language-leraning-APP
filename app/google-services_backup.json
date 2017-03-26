@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1052187232870",
+    "firebase_url": "https://sdi-app-3059e.firebaseio.com",
+    "project_id": "sdi-app-3059e",
+    "storage_bucket": "sdi-app-3059e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052187232870:android:b91871f948cec294",
+        "android_client_info": {
+          "package_name": "com.lmu.pmg.sdiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052187232870-p8urf462jj2aa09h3ei6e4838nil6ss9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lmu.pmg.sdiapp",
+            "certificate_hash": "1335D6CFDF54D2353F419ECC58386E0D96216A4F"
+          }
+        },
+        {
+          "client_id": "1052187232870-rk94qkpsn12bbd1rp230m6bo25j89e0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQFppyqQllMOIDz3kRmuezg0k4GYLwcOE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052187232870-rk94qkpsn12bbd1rp230m6bo25j89e0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

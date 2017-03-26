@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_points"
+        android:title=""
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/menu_mute"
+        android:actionViewClass="android.support.v7.widget.SearchView"
+        android:icon="@drawable/mute"
+        app:showAsAction="always"
+        android:title="@string/menu_mute" />
+    <!-- icon credits: https://icons8.com/web-app/643/Mute -->
+
+    <item
+        android:id="@+id/menu_keyboard"
+        android:title="@string/menu_keyboard"
+        />
+
+</menu>

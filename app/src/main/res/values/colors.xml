@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f49b00</color>
+    <color name="colorPrimaryDark">#b37100</color>
+    <color name="colorAccent">#0c1d3c</color>
+
+    <color name="corporate_yellow">#f49b00</color>
+    <color name="corporate_red">#d61613</color>
+    <color name="corporate_purple">#4a1a35</color>
+    <color name="corporate_blue">#0c1d3c</color>
+    <color name="corporate_petrol">#033d40</color>
+    <color name="corporate_green">#42a019</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="light_grey">#ddd</color>
+    <color name="light_primary">#ffe6b9</color>
+    <color name="light_accent">#b8ccf1</color>
+</resources>

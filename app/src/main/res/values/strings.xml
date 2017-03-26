@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">SDI App</string>
+    <string name="category_title">Kategorien</string>
+    <string name="language_title">Sprachen</string>
+    <string name="level_title">Schwierigkeitsgrade</string>
+    <string name="dialo_selection_title">Dialogauswahl</string>
+    <string name="chat_title">Chat</string>
+    <string name="description">Willkommen! Diese App unterstützt dich beim Lernen von Fremdsprachen durch ein Dialogsystem. Viel Spaß!</string>
+    <string name="language_prompt">Sprache wählen</string>
+    <string name="button_start">Start</string>
+    <string name="button_settings">Einstellungen</string>
+    <string name="button_quit">Beenden</string>
+    <string-array name="language_array">
+        <item>Englisch</item>
+        <item>Spanisch</item>
+    </string-array>
+    <string name="difficulty_prompt">Schwierigkeit wählen</string>
+    <string name="sdi_company_logo">SDI Firmenlogo</string>
+    <string name="notification">Benachrichtigung</string>
+    <string name="difficulty">Schwierigkeit</string>
+    <string name="language">Sprache</string>
+    <string name="language_hint">Die Sprache ist jetzt</string>
+    <string name="button_statistics">Statistik</string>
+    <string-array name="difficulty_array">
+        <item>Leicht</item>
+        <item>Mittel</item>
+        <item>Schwer</item>
+    </string-array>
+
+
+    <!--the strings in notification -->
+    <string name="notification_title">Benachrichtigungen</string>
+    <string name="operation">Aktion</string>
+    <string name="delete">Löschen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="Noti_title">SDI Erinnerung</string>
+    <string name="Noti_content">Fremdsprache lernen</string>
+    <string name="choose_day">Bitte Tag auswählen</string>
+
+    <!--the day of week-->
+    <string name="mon">Mon.</string>
+    <string name="die">Die.</string>
+    <string name="mit">Mit.</string>
+    <string name="don">Don.</string>
+    <string name="fri">Fri.</string>
+    <string name="sam">Sam.</string>
+    <string name="son">Son.</string>
+
+    <string name="statistics_title">Deine Statistik</string>
+    <string name="action_settings">Settings</string>
+    <string name="chatend_title">Deine Ergebnisse</string>
+    <string name="defaultLanguage">Englisch</string>
+    <string name="defaultDifficulty">Leicht</string>
+    <string name="toast_difficulty_not_available">Die Schwierigkeit %s ist für diese Kategorie leider nicht verfügbar.</string>
+
+
+    <!-- APP SETTINGS -->
+    <!-- File key for settings file -->
+    <string name="settings_filekey">Settings</string>
+
+    <!-- Keys for key/value pairs -->
+    <string name="settings_activeLanguage">Active Language</string>
+    <string name="settings_availableLanguages">Available Languages</string>
+    <string name="settings_activeDifficulty">Active Difficulty</string>
+    <string name="typo_hint">Tippfehler! Ein letzter Versuch.</string>
+    <string name="button_nextChat">Nächster Chat</string>
+    <string name="button_toChatSelection">Zur Chat-Auswahl</string>
+    <string name="button_toMainmenu">Zum Hauptmenü</string>
+    <string name="button_backToChat">Chat nochmal ansehen</string>
+    <string name="button_toResults">Zurück zum Ergebnis</string>
+    <string name="chat_hint_title">Hinweis</string>
+    <string name="chat_hint_text">Möchtest du einen Hinweis haben? Du bekommst dann aber nicht mehr die volle Punktzahl!</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="chat_end_toast">Geschafft! Hier sind Deine Ergebnisse...</string>
+
+    <!-- Menus -->
+    <string name="menu_notification">Benachrichtigungen</string>
+    <string name="menu_mute">Stumm</string>
+    <string name="menu_keyboard">Tastatursprache</string>
+
+</resources>

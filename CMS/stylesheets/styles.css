@@ -1,0 +1,38 @@
+body {
+
+}
+
+.background {
+    background-color: #fbb500;
+    
+    
+    overflow:hidden;
+}
+
+.header-box{
+	height: 100px;
+    padding-bottom: 1px;
+}
+
+.image{
+	
+	height:100px;
+	width: auto;
+	float: left;
+}
+
+#header{
+	margin-top: 0px;
+	padding-top: 22px;
+	padding-left: 10px;
+}
+
+.header-container{
+	width:100%;
+	margin-bottom: 5px;
+}
+
+.lines{
+	margin-left: 10px;
+	margin-bottom: 5px;
+}
